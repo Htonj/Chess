@@ -71,3 +71,4 @@
 /home/phloam/RiderProjects/ChessApp/ChessApp/obj/Debug/net10.0/ChessApp.pdb
 /home/phloam/RiderProjects/ChessApp/ChessApp/obj/Debug/net10.0/ChessApp.genruntimeconfig.cache
 /home/phloam/RiderProjects/ChessApp/ChessApp/obj/Debug/net10.0/ref/ChessApp.dll
+/home/phloam/RiderProjects/ChessApp/ChessApp/obj/Debug/net10.0/ChessApp.sourcelink.json

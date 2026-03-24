@@ -24,10 +24,4 @@
             <LogicalName>%(RecursiveDir)%(Filename)%(Extension)</LogicalName>
         </EmbeddedResource>
     </ItemGroup>
-
-    <ItemGroup>
-      <Compile Update="Inrerface\Cell.cs">
-        <DependentUpon>Cell.axaml</DependentUpon>
-      </Compile>
-    </ItemGroup>
 </Project>

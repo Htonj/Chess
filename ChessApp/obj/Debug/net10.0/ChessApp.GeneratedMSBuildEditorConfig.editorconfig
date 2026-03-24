@@ -26,8 +26,5 @@ build_property.EnableCodeStyleSeverity =
 [/home/phloam/RiderProjects/ChessApp/ChessApp/App.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[/home/phloam/RiderProjects/ChessApp/ChessApp/Inrerface/Cell.axaml]
-build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
-
 [/home/phloam/RiderProjects/ChessApp/ChessApp/MainWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml

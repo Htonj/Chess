@@ -28,6 +28,6 @@
                 </StackPanel>
             </StackPanel>
         </Border>
-        <Button FontFamily="Lucida Console" Background="#ff0040" FontSize="16" Click="Button_OnClick" HorizontalAlignment="Right" Margin="50, 7, 50, 20" Foreground="White">Leave</Button>
+        <Button FontFamily="Lucida Console" Background="#ff0040" FontSize="16"  Click="Button_OnClick" HorizontalAlignment="Right" Margin="50, 7, 50, 20" Foreground="White">Leave</Button>
     </StackPanel>
 </Window>
