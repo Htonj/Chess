@@ -24,4 +24,11 @@
             <LogicalName>%(RecursiveDir)%(Filename)%(Extension)</LogicalName>
         </EmbeddedResource>
     </ItemGroup>
+
+    <ItemGroup>
+      <Compile Update="LocalGameWindow.axaml.cs">
+        <DependentUpon>LocalGameWindow.axaml</DependentUpon>
+        <SubType>Code</SubType>
+      </Compile>
+    </ItemGroup>
 </Project>
