@@ -13,7 +13,7 @@
         </LinearGradientBrush>
     </Window.Background>
     <StackPanel Margin="50, 40" >
-        <Label FontFamily="Lucida Console" FontSize="24" Foreground="White" FontWeight="Bold">There is two ways...</Label>
+        <Label FontFamily="Lucida Console" FontSize="24" Foreground="White" FontWeight="Bold">There are two ways...</Label>
         <StackPanel Orientation="Horizontal">
             <Button FontFamily="Lucida Console" Click="BotGameButton_OnClick" Background="#323232" Width="240" Height="240" FontSize="24" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Center" Foreground="White">Play with a bot</Button>
             <Button FontFamily="Lucida Console" Click="LocalGameButton_OnClick" Background="#323232" Width="240" Height="240" FontSize="24" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Center" Foreground="White">Play local</Button>
